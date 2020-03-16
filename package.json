@@ -5,19 +5,22 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@babel/core": "^7.8.7",
     "gulp-sass": "^4.0.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
+    "@storybook/react": "^5.3.17",
     "typescript": "3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook"
   },
   "browserslist": [
     ">0.2%",
