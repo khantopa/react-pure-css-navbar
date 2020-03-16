@@ -12,6 +12,8 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
+    "@percy/agent": "^0.25.0",
+    "@percy/storybook": "^3.3.0",
     "@storybook/react": "^5.3.17",
     "typescript": "3.3.3"
   },
@@ -20,7 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "storybook": "start-storybook"
+    "storybook": "start-storybook",
+    "snapshot": "build-storybook && percy-storybook --widths=320,1280"
   },
   "browserslist": [
     ">0.2%",

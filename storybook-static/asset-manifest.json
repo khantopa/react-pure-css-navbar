@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21f59304.chunk.css",
+    "main.js": "/main.d1fe3de09324b3597f02.bundle.js",
+    "main.css.map": "/static/css/main.21f59304.chunk.css.map",
+    "main.js.map": "/main.d1fe3de09324b3597f02.bundle.js.map",
+    "runtime~main.js": "/runtime~main.d1fe3de09324b3597f02.bundle.js",
+    "runtime~main.js.map": "/runtime~main.d1fe3de09324b3597f02.bundle.js.map",
+    "vendors~main.js": "/vendors~main.d1fe3de09324b3597f02.bundle.js",
+    "vendors~main.js.map": "/vendors~main.d1fe3de09324b3597f02.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.48bd29037dd84416cce985c0fcc38c91.js": "/precache-manifest.48bd29037dd84416cce985c0fcc38c91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/toggle.png": "/static/media/toggle.b3c22e38.png",
+    "vendors~main.d1fe3de09324b3597f02.bundle.js.LICENSE.txt": "/vendors~main.d1fe3de09324b3597f02.bundle.js.LICENSE.txt"
+  }
+}
