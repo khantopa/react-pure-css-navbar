@@ -4,7 +4,7 @@ import './Navbar.scss';
 
 export default class Navbar extends Component {
   state = {
-    menus: ['Home', 'About', 'Media', 'Contact Us', 'Shop']
+    menus: ['Home', 'About', 'Media', 'Contact Us']
   }
   render() {
     
